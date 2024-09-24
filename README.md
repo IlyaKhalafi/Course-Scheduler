@@ -39,7 +39,7 @@ My Final project for the **Linear Optimization** course at **Amirkabir Universit
 
 ### Objective Function:
 
-$`Max \;\, z = \displaystyle \sum_{i \in Teachers} \sum_{j \in Classes} f_j a_j X_{i,j} - \displaystyle \sum_{i \in Teachers} \sum_{j \in Classes} l_i X_{i,j} - \displaystyle \sum_{i \in Teachers} \frac{1500 \times 1.5 \times \sum_{j \in Classes} \sum_{k \in Days} D_{i,j,k}}{44 \times 52}`$
+$Max \;\, z = \displaystyle \sum_{i \in Teachers} \sum_{j \in Classes} f_j a_j X_{i,j} - \displaystyle \sum_{i \in Teachers} \sum_{j \in Classes} l_i X_{i,j} - \displaystyle \sum_{i \in Teachers} \frac{1500 \times 1.5 \times \sum_{j \in Classes} \sum_{k \in Days} D_{i,j,k}}{44 \times 52}$
 
 The objective function maximizes profit by summing assigned class fees, subtracting teacher salaries and insurance costs.
 

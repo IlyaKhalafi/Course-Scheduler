@@ -83,7 +83,7 @@ The objective function maximizes profit by summing assigned class fees, subtract
 
 # Sample Output
 
-```bash
+```
 Total Number of Variables : 4117
 Total Number of Constraints : 6601
 --------------------------------------------------
